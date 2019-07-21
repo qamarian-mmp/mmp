@@ -1,0 +1,7 @@
+- multi-threaded execution
+- init-dnit
+- logically-ordered init-dnit
+- inter-thread communication
+- data encapsulation
+- dynamic thread spinning
+- graceful shutdown
