@@ -2,3 +2,4 @@
 - logically-ordered startup-shutdown
 - inter-thread communication
 - data encapsulation
+- graceful shutdown
